@@ -202,6 +202,7 @@ def confirmar_pagamento():
         "Confirmação de pagamento",
         "O pagamento foi confirmado no FluxoRP?"
     )
+    pyautogui.hotkey("alt", "tab")
 
 
 def limpar_id():
@@ -290,8 +291,8 @@ def cobrar_e_reanimar(id_paciente):
         pressionar_tecla(tecla_prompt)
         sleep(0.5)
 
-        pydirectinput.press("y")
-        sleep(0.4)
+        #pydirectinput.press("y")
+        #sleep(0.4)
 
         pydirectinput.press("y")
         sleep(0.8)
@@ -534,7 +535,7 @@ init_db()
 
 janela = tk.Tk()
 janela.title("Bombeiros - FluxoRP")
-janela.geometry("540x650")
+janela.geometry("500x700")
 janela.resizable(False, False)
 
 titulo = tk.Label(
