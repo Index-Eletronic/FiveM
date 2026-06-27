@@ -148,7 +148,6 @@ def carregar_grade():
         ORDER BY id DESC
         LIMIT 50
     """)
-
     registros = cursor.fetchall()
 
     cursor.execute("""
@@ -161,7 +160,7 @@ def carregar_grade():
     cursor.execute("""
         SELECT COUNT(*)
         FROM atendimentos
-        WHERE status_pagamento = 'PAGO'
+        WHERE status_pagamento IN ('PAGO', 'SEM CUSTO')
     """)
     total_salvamentos = cursor.fetchone()[0]
 
@@ -202,7 +201,6 @@ def confirmar_pagamento():
         "Confirmação de pagamento",
         "O pagamento foi confirmado no FluxoRP?"
     )
-    pyautogui.hotkey("alt", "tab")
 
 
 def limpar_id():
@@ -258,8 +256,12 @@ def realizar_print(id_paciente):
 def cobrar_e_reanimar(id_paciente):
     global executando
 
+    pyautogui.hotkey("alt", "tab")
+    sleep(0.3)
+
     executando = True
     btn_executar.config(state="disabled")
+    btn_sem_custo.config(state="disabled")
 
     valor = VALOR_REANIMACAO
     tecla_prompt = config_app.get("tecla_prompt", "f8")
@@ -273,14 +275,14 @@ def cobrar_e_reanimar(id_paciente):
     try:
         set_status("Executando cobrança...", "#ef6c00")
 
-        sleep(2)
+        sleep(1)
 
         if keyboard.is_pressed("esc"):
             logar("Operação cancelada pelo ESC.")
             return
 
         pressionar_tecla(tecla_prompt)
-        sleep(0.8)
+        sleep(0.5)
 
         pyautogui.write(comando_cobranca, interval=0.02)
         sleep(0.3)
@@ -291,12 +293,6 @@ def cobrar_e_reanimar(id_paciente):
         pressionar_tecla(tecla_prompt)
         sleep(0.5)
 
-        #pydirectinput.press("y")
-        #sleep(0.4)
-
-        pydirectinput.press("y")
-        sleep(0.8)
-
         set_status("Aguardando confirmação de pagamento...", "#6a1b9a")
 
         if confirmar_pagamento():
@@ -305,10 +301,10 @@ def cobrar_e_reanimar(id_paciente):
             sleep(0.5)
 
             pyautogui.hotkey("alt", "tab")
-            sleep(0.8)
+            sleep(0.3)
 
             pressionar_tecla(tecla_reanimar)
-            sleep(0.8)
+            sleep(0.5)
 
             pressionar_tecla(tecla_prompt)
             sleep(0.5)
@@ -317,10 +313,19 @@ def cobrar_e_reanimar(id_paciente):
             sleep(0.4)
 
             pyautogui.press("enter")
-            sleep(0.5)
+            sleep(1)
 
             caminho_print = realizar_print(id_paciente)
             sleep(0.5)
+
+            pydirectinput.press("f8")
+            sleep(0.2)
+
+            pydirectinput.press("k")
+            sleep(0.4)
+
+            pydirectinput.press("k")
+            sleep(0.8)
 
             pressionar_tecla(tecla_prompt)
             sleep(1.5)
@@ -349,9 +354,61 @@ def cobrar_e_reanimar(id_paciente):
     finally:
         executando = False
         btn_executar.config(state="normal")
+        btn_sem_custo.config(state="normal")
         janela.after(0, limpar_id)
 
 
+def reanimar_sem_custo(id_paciente):
+    global executando
+
+    pyautogui.hotkey("alt", "tab")
+    sleep(0.3)
+
+    executando = True
+    btn_executar.config(state="disabled")
+    btn_sem_custo.config(state="disabled")
+
+    tecla_reanimar = config_app.get("tecla_reanimar", "f2")
+    caminho_print = ""
+
+    try:
+        set_status("Reanimando sem custo...", "#1565c0")
+
+        sleep(0.5)
+
+        if keyboard.is_pressed("esc"):
+            logar("Operação cancelada pelo ESC.")
+            return
+
+        pressionar_tecla(tecla_reanimar)
+        sleep(1)
+
+        caminho_print = realizar_print(id_paciente)
+        sleep(0.5)
+
+        salvar_atendimento(
+            paciente_id=id_paciente,
+            valor=0,
+            status="SEM CUSTO",
+            comando_cobranca="SEM CUSTO",
+            comando_reanimacao=f"TECLA: {tecla_reanimar.upper()}",
+            print_realizado=True,
+            caminho_print=caminho_print
+        )
+
+        janela.after(0, carregar_grade)
+        set_status("Reanimação sem custo concluída", "#2e7d32")
+
+    except Exception as erro:
+        logar(f"Erro: {erro}")
+        set_status("Erro durante execução", "#b71c1c")
+        janela.after(0, lambda: messagebox.showerror("Erro", str(erro)))
+
+    finally:
+        executando = False
+        btn_executar.config(state="normal")
+        btn_sem_custo.config(state="normal")
+        janela.after(0, limpar_id)
 def executar_fluxo():
     global executando
 
@@ -365,6 +422,25 @@ def executar_fluxo():
 
     thread = threading.Thread(
         target=cobrar_e_reanimar,
+        args=(id_paciente,),
+        daemon=True
+    )
+    thread.start()
+
+
+def executar_sem_custo():
+    global executando
+
+    if executando:
+        return
+
+    id_paciente = entrada_id.get().strip()
+
+    if not validar_id(id_paciente):
+        return
+
+    thread = threading.Thread(
+        target=reanimar_sem_custo,
         args=(id_paciente,),
         daemon=True
     )
@@ -609,13 +685,13 @@ entrada_valor = tk.Entry(frame_valor, font=("Arial", 12), width=10, justify="cen
 entrada_valor.insert(0, str(VALOR_REANIMACAO))
 entrada_valor.grid(row=0, column=1, padx=5)
 
-btn_valor = tk.Button(
+btn_sem_custo = tk.Button(
     frame_valor,
-    text="Alterar",
-    command=alterar_valor,
+    text="SEM CUSTO",
+    command=executar_sem_custo,
     width=10
 )
-btn_valor.grid(row=0, column=2, padx=5)
+btn_sem_custo.grid(row=0, column=2, padx=5)
 
 frame_valores_rapidos = tk.Frame(frame_valor)
 frame_valores_rapidos.grid(row=1, column=0, columnspan=3, pady=8)
