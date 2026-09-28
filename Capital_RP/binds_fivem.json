@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Continencia",
+    "key": "6",
+    "command": "e meditar4;e continencia2"
+  },
+  {
+    "name": "Continencua",
+    "key": "7",
+    "command": "e meditar4;e continencia2"
+  },
+  {
+    "name": "Saldar",
+    "key": "8",
+    "command": "e meditar2; e continencia"
+  },
+  {
+    "name": "Fumar",
+    "key": "F3",
+    "command": "e fumar5"
+  }
+]

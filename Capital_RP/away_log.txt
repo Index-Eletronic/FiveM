@@ -1,0 +1,1399 @@
+[01/07/2026 22:46:21] Script iniciado.
+[01/07/2026 22:50:18] Script iniciado.
+[01/07/2026 22:51:23] Mexeu para manter acordado.
+[01/07/2026 22:52:24] Mexeu para manter acordado.
+[01/07/2026 22:53:24] Mexeu para manter acordado.
+[01/07/2026 22:54:25] Mexeu para manter acordado.
+[01/07/2026 22:55:25] Mexeu para manter acordado.
+[01/07/2026 22:56:23] Agachando.
+[01/07/2026 22:56:25] Usando comida.
+[01/07/2026 22:56:30] Comida usada. Restam 48.
+[01/07/2026 22:56:31] Usando água 1/2.
+[01/07/2026 22:56:35] Água usada. Restam 13.
+[01/07/2026 22:56:36] Usando água 2/2.
+[01/07/2026 22:56:40] Água usada. Restam 12.
+[01/07/2026 22:56:42] Ciclo 1 concluído.
+[01/07/2026 22:57:43] Mexeu para manter acordado.
+[01/07/2026 22:58:43] Mexeu para manter acordado.
+[01/07/2026 22:59:44] Mexeu para manter acordado.
+[01/07/2026 23:00:44] Mexeu para manter acordado.
+[05/07/2026 21:59:37] Script iniciado.
+[05/07/2026 22:00:23] Mexeu para manter acordado.
+[05/07/2026 22:01:03] Mexeu para manter acordado.
+[05/07/2026 22:01:44] Mexeu para manter acordado.
+[05/07/2026 22:02:24] Mexeu para manter acordado.
+[05/07/2026 22:03:21] Script iniciado.
+[05/07/2026 22:04:06] Mexeu para manter acordado.
+[05/07/2026 22:04:47] Mexeu para manter acordado.
+[05/07/2026 22:05:27] Mexeu para manter acordado.
+[05/07/2026 22:06:08] Mexeu para manter acordado.
+[05/07/2026 22:12:32] Script iniciado.
+[05/07/2026 22:13:17] Mexeu para manter acordado.
+[05/07/2026 22:13:58] Mexeu para manter acordado.
+[05/07/2026 22:14:37] Script iniciado.
+[05/07/2026 22:15:42] Mexeu para manter acordado.
+[05/07/2026 22:16:43] Mexeu para manter acordado.
+[05/07/2026 22:17:43] Mexeu para manter acordado.
+[05/07/2026 22:18:44] Mexeu para manter acordado.
+[05/07/2026 22:19:45] Mexeu para manter acordado.
+[05/07/2026 22:20:43] Agachando.
+[05/07/2026 22:20:44] Usando comida.
+[05/07/2026 22:20:49] Comida usada. Restam 48.
+[05/07/2026 22:20:50] Usando água 1/2.
+[05/07/2026 22:20:54] Água usada. Restam 13.
+[05/07/2026 22:20:55] Usando água 2/2.
+[05/07/2026 22:20:59] Água usada. Restam 12.
+[05/07/2026 22:21:01] Ciclo 1 concluído.
+[05/07/2026 22:22:02] Mexeu para manter acordado.
+[05/07/2026 22:23:02] Mexeu para manter acordado.
+[05/07/2026 22:24:03] Mexeu para manter acordado.
+[05/07/2026 22:25:03] Mexeu para manter acordado.
+[05/07/2026 22:26:04] Mexeu para manter acordado.
+[05/07/2026 22:27:02] Agachando.
+[05/07/2026 22:27:04] Usando comida.
+[05/07/2026 22:27:08] Comida usada. Restam 47.
+[05/07/2026 22:27:09] Usando água 1/2.
+[05/07/2026 22:27:13] Água usada. Restam 11.
+[05/07/2026 22:27:14] Usando água 2/2.
+[05/07/2026 22:27:19] Água usada. Restam 10.
+[05/07/2026 22:27:21] Ciclo 2 concluído.
+[05/07/2026 22:28:21] Mexeu para manter acordado.
+[05/07/2026 22:29:22] Mexeu para manter acordado.
+[09/07/2026 18:32:35] Script iniciado.
+[09/07/2026 18:33:40] Mexeu para manter acordado.
+[09/07/2026 18:34:41] Mexeu para manter acordado.
+[09/07/2026 18:35:41] Mexeu para manter acordado.
+[09/07/2026 18:36:42] Mexeu para manter acordado.
+[09/07/2026 18:37:43] Mexeu para manter acordado.
+[09/07/2026 18:38:41] Agachando.
+[09/07/2026 18:38:42] Usando comida.
+[09/07/2026 18:38:47] Comida usada. Restam 48.
+[09/07/2026 18:38:48] Usando água 1/2.
+[09/07/2026 18:38:52] Água usada. Restam 13.
+[09/07/2026 18:38:53] Usando água 2/2.
+[09/07/2026 18:38:57] Água usada. Restam 12.
+[09/07/2026 18:38:59] Ciclo 1 concluído.
+[09/07/2026 18:40:00] Mexeu para manter acordado.
+[09/07/2026 18:41:00] Mexeu para manter acordado.
+[09/07/2026 18:42:01] Mexeu para manter acordado.
+[09/07/2026 18:43:01] Mexeu para manter acordado.
+[09/07/2026 18:44:02] Mexeu para manter acordado.
+[09/07/2026 18:45:00] Agachando.
+[09/07/2026 18:45:02] Usando comida.
+[09/07/2026 18:45:06] Comida usada. Restam 47.
+[09/07/2026 18:45:07] Usando água 1/2.
+[09/07/2026 18:45:11] Água usada. Restam 11.
+[09/07/2026 18:45:12] Usando água 2/2.
+[09/07/2026 18:45:17] Água usada. Restam 10.
+[09/07/2026 18:45:19] Ciclo 2 concluído.
+[09/07/2026 18:46:19] Mexeu para manter acordado.
+[09/07/2026 18:47:20] Mexeu para manter acordado.
+[09/07/2026 18:48:20] Mexeu para manter acordado.
+[09/07/2026 18:49:21] Mexeu para manter acordado.
+[09/07/2026 18:50:21] Mexeu para manter acordado.
+[09/07/2026 18:51:19] Agachando.
+[09/07/2026 18:51:21] Usando comida.
+[09/07/2026 18:51:26] Comida usada. Restam 46.
+[09/07/2026 18:51:27] Usando água 1/2.
+[09/07/2026 18:51:31] Água usada. Restam 9.
+[09/07/2026 18:51:32] Usando água 2/2.
+[09/07/2026 18:51:36] Água usada. Restam 8.
+[09/07/2026 18:51:38] Ciclo 3 concluído.
+[09/07/2026 18:52:39] Mexeu para manter acordado.
+[09/07/2026 18:53:39] Mexeu para manter acordado.
+[09/07/2026 18:54:40] Mexeu para manter acordado.
+[09/07/2026 18:55:40] Mexeu para manter acordado.
+[09/07/2026 18:56:41] Mexeu para manter acordado.
+[09/07/2026 18:57:39] Agachando.
+[09/07/2026 18:57:41] Usando comida.
+[09/07/2026 18:57:45] Comida usada. Restam 45.
+[09/07/2026 18:57:46] Usando água 1/2.
+[09/07/2026 18:57:50] Água usada. Restam 7.
+[09/07/2026 18:57:51] Usando água 2/2.
+[09/07/2026 18:57:56] Água usada. Restam 6.
+[09/07/2026 18:57:58] Ciclo 4 concluído.
+[09/07/2026 18:58:58] Mexeu para manter acordado.
+[09/07/2026 18:59:59] Mexeu para manter acordado.
+[09/07/2026 19:00:59] Mexeu para manter acordado.
+[12/07/2026 09:40:01] Automação iniciada com 49 comidas e 14 águas.
+[12/07/2026 09:40:17] Automação interrompida pelo terminal.
+[12/07/2026 09:41:15] Automação iniciada com 62 comidas e 5 águas.
+[12/07/2026 09:42:20] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 09:42:23] Movimentação para manter personagem acordado concluída.
+[12/07/2026 09:43:23] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 09:43:27] Movimentação para manter personagem acordado concluída.
+[12/07/2026 09:44:27] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 09:44:31] Movimentação para manter personagem acordado concluída.
+[12/07/2026 09:45:31] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 09:45:35] Movimentação para manter personagem acordado concluída.
+[12/07/2026 09:46:35] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 09:46:38] Movimentação para manter personagem acordado concluída.
+[12/07/2026 09:47:38] Iniciando ciclo 1.
+[12/07/2026 09:47:42] Comida utilizada. Restam 61.
+[12/07/2026 09:47:47] Água 1/2 utilizada. Restam 4.
+[12/07/2026 09:47:52] Água 2/2 utilizada. Restam 3.
+[12/07/2026 09:47:52] Ciclo 1 concluído.
+[12/07/2026 09:48:53] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 09:48:56] Movimentação para manter personagem acordado concluída.
+[12/07/2026 09:49:56] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 09:50:00] Movimentação para manter personagem acordado concluída.
+[12/07/2026 09:51:00] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 09:51:03] Movimentação para manter personagem acordado concluída.
+[12/07/2026 09:52:03] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 09:52:07] Movimentação para manter personagem acordado concluída.
+[12/07/2026 09:53:07] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 09:53:11] Movimentação para manter personagem acordado concluída.
+[12/07/2026 09:53:45] Automação interrompida pelo terminal.
+[12/07/2026 09:53:46] Automação finalizada.
+[12/07/2026 21:03:04] Automação iniciada com 62 comidas e 5 águas.
+[12/07/2026 21:04:09] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:04:12] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:05:12] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:05:16] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:05:57] Automação interrompida pelo terminal.
+[12/07/2026 21:05:57] Automação finalizada.
+[12/07/2026 21:06:21] Automação iniciada com 58 comidas e 24 águas.
+[12/07/2026 21:07:27] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:07:30] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:08:30] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:08:34] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:09:34] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:09:37] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:10:37] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:10:41] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:11:41] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:11:44] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:12:44] Iniciando ciclo 1.
+[12/07/2026 21:12:48] Comida utilizada. Restam 57.
+[12/07/2026 21:12:53] Água 1/2 utilizada. Restam 23.
+[12/07/2026 21:12:59] Água 2/2 utilizada. Restam 22.
+[12/07/2026 21:12:59] Ciclo 1 concluído.
+[12/07/2026 21:13:59] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:14:02] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:15:02] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:15:06] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:16:06] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:16:09] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:17:09] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:17:13] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:18:13] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:18:17] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:19:16] Iniciando ciclo 2.
+[12/07/2026 21:19:20] Comida utilizada. Restam 56.
+[12/07/2026 21:19:25] Água 1/2 utilizada. Restam 21.
+[12/07/2026 21:19:31] Água 2/2 utilizada. Restam 20.
+[12/07/2026 21:19:31] Ciclo 2 concluído.
+[12/07/2026 21:20:31] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:20:34] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:21:35] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:21:38] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:22:38] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:22:42] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:23:42] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:23:46] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:24:46] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:24:49] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:25:49] Iniciando ciclo 3.
+[12/07/2026 21:25:53] Comida utilizada. Restam 55.
+[12/07/2026 21:25:58] Água 1/2 utilizada. Restam 19.
+[12/07/2026 21:26:03] Água 2/2 utilizada. Restam 18.
+[12/07/2026 21:26:03] Ciclo 3 concluído.
+[12/07/2026 21:27:04] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:27:07] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:28:07] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:28:11] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:29:11] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:29:15] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:29:46] Automação interrompida pelo terminal.
+[12/07/2026 21:29:46] Automação finalizada.
+[12/07/2026 21:33:03] Automação iniciada com 72 comidas e 27 águas.
+[12/07/2026 21:34:08] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:34:11] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:35:11] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:35:15] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:36:15] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:36:19] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:37:19] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:37:22] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:38:23] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:38:26] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:39:26] Iniciando ciclo 1.
+[12/07/2026 21:39:30] Comida utilizada. Restam 71.
+[12/07/2026 21:39:35] Água 1/2 utilizada. Restam 26.
+[12/07/2026 21:39:40] Água 2/2 utilizada. Restam 25.
+[12/07/2026 21:39:40] Ciclo 1 concluído.
+[12/07/2026 21:40:40] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:40:44] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:41:44] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:41:48] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:42:48] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:42:52] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:43:52] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:43:55] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:44:56] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:44:59] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:45:59] Iniciando ciclo 2.
+[12/07/2026 21:46:03] Comida utilizada. Restam 70.
+[12/07/2026 21:46:08] Água 1/2 utilizada. Restam 24.
+[12/07/2026 21:46:13] Água 2/2 utilizada. Restam 23.
+[12/07/2026 21:46:13] Ciclo 2 concluído.
+[12/07/2026 21:47:13] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:47:17] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:48:17] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:48:20] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:49:20] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:49:24] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:50:24] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:50:28] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:51:28] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:51:31] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:52:31] Iniciando ciclo 3.
+[12/07/2026 21:52:35] Comida utilizada. Restam 69.
+[12/07/2026 21:52:40] Água 1/2 utilizada. Restam 22.
+[12/07/2026 21:52:45] Água 2/2 utilizada. Restam 21.
+[12/07/2026 21:52:45] Ciclo 3 concluído.
+[12/07/2026 21:53:46] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:53:49] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:54:49] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:54:52] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:55:52] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:55:56] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:56:56] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:57:00] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:58:00] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 21:58:03] Movimentação para manter personagem acordado concluída.
+[12/07/2026 21:59:03] Iniciando ciclo 4.
+[12/07/2026 21:59:07] Comida utilizada. Restam 68.
+[12/07/2026 21:59:12] Água 1/2 utilizada. Restam 20.
+[12/07/2026 21:59:17] Água 2/2 utilizada. Restam 19.
+[12/07/2026 21:59:17] Ciclo 4 concluído.
+[12/07/2026 22:00:17] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:00:21] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:01:21] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:01:25] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:02:25] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:02:29] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:03:08] Salário 1 recebido: R$ 2.350,00 | Total: R$ 2.350,00
+[12/07/2026 22:03:29] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:03:32] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:04:32] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:04:36] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:05:05] Automação interrompida pelo terminal.
+[12/07/2026 22:05:05] Automação finalizada.
+[12/07/2026 22:10:03] Automação iniciada com 68 comidas e 27 águas.
+[12/07/2026 22:11:08] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:11:11] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:12:12] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:12:15] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:13:15] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:13:19] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:14:19] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:14:22] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:15:22] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:15:26] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:16:25] Iniciando ciclo 1.
+[12/07/2026 22:16:31] Comida utilizada. Restam 67.
+[12/07/2026 22:16:37] Água 1/2 utilizada. Restam 26.
+[12/07/2026 22:16:43] Água 2/2 utilizada. Restam 25.
+[12/07/2026 22:16:43] Ciclo 1 concluído.
+[12/07/2026 22:17:43] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:17:47] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:18:47] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:18:50] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:19:51] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:19:54] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:20:54] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:20:58] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:21:58] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:22:01] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:23:01] Iniciando ciclo 2.
+[12/07/2026 22:23:06] Comida utilizada. Restam 66.
+[12/07/2026 22:23:12] Água 1/2 utilizada. Restam 24.
+[12/07/2026 22:23:19] Água 2/2 utilizada. Restam 23.
+[12/07/2026 22:23:19] Ciclo 2 concluído.
+[12/07/2026 22:24:19] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:24:22] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:25:23] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:25:26] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:26:26] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:26:30] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:27:30] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:27:34] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:28:34] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:28:37] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:29:37] Iniciando ciclo 3.
+[12/07/2026 22:29:42] Comida utilizada. Restam 65.
+[12/07/2026 22:29:48] Água 1/2 utilizada. Restam 22.
+[12/07/2026 22:29:54] Água 2/2 utilizada. Restam 21.
+[12/07/2026 22:29:54] Ciclo 3 concluído.
+[12/07/2026 22:30:54] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:30:58] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:31:58] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:32:02] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:33:02] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:33:05] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:34:05] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:34:09] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:35:09] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:35:13] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:36:12] Iniciando ciclo 4.
+[12/07/2026 22:36:18] Comida utilizada. Restam 64.
+[12/07/2026 22:36:24] Água 1/2 utilizada. Restam 20.
+[12/07/2026 22:36:30] Água 2/2 utilizada. Restam 19.
+[12/07/2026 22:36:30] Ciclo 4 concluído.
+[12/07/2026 22:37:30] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:37:34] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:38:34] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:38:37] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:39:37] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:39:41] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:40:08] Salário 1 recebido: R$ 2.350,00 | Total: R$ 2.350,00
+[12/07/2026 22:40:41] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:40:45] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:41:45] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:41:48] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:42:48] Iniciando ciclo 5.
+[12/07/2026 22:42:53] Comida utilizada. Restam 63.
+[12/07/2026 22:43:00] Água 1/2 utilizada. Restam 18.
+[12/07/2026 22:43:06] Água 2/2 utilizada. Restam 17.
+[12/07/2026 22:43:06] Ciclo 5 concluído.
+[12/07/2026 22:44:06] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:44:09] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:45:09] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 22:45:13] Movimentação para manter personagem acordado concluída.
+[12/07/2026 22:45:38] Automação interrompida pelo terminal.
+[12/07/2026 22:45:38] Automação finalizada.
+[12/07/2026 23:15:00] Automação iniciada com 68 comidas e 27 águas.
+[12/07/2026 23:15:08] Automação interrompida pelo terminal.
+[12/07/2026 23:15:08] Automação finalizada.
+[12/07/2026 23:15:28] Automação iniciada com 62 comidas e 14 águas.
+[12/07/2026 23:16:33] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:16:36] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:17:36] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:17:40] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:18:40] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:18:44] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:19:44] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:19:47] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:20:48] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:20:51] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:21:51] Iniciando ciclo 1.
+[12/07/2026 23:21:56] Comida utilizada. Restam 61.
+[12/07/2026 23:22:02] Água 1/2 utilizada. Restam 13.
+[12/07/2026 23:22:08] Água 2/2 utilizada. Restam 12.
+[12/07/2026 23:22:08] Ciclo 1 concluído.
+[12/07/2026 23:23:08] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:23:12] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:24:12] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:24:15] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:25:15] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:25:19] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:26:19] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:26:23] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:27:23] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:27:26] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:28:26] Iniciando ciclo 2.
+[12/07/2026 23:28:31] Comida utilizada. Restam 60.
+[12/07/2026 23:28:37] Água 1/2 utilizada. Restam 11.
+[12/07/2026 23:28:43] Água 2/2 utilizada. Restam 10.
+[12/07/2026 23:28:43] Ciclo 2 concluído.
+[12/07/2026 23:29:43] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:29:47] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:30:47] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:30:51] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:31:51] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:31:55] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:32:55] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:32:58] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:33:58] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:34:02] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:35:02] Iniciando ciclo 3.
+[12/07/2026 23:35:07] Comida utilizada. Restam 59.
+[12/07/2026 23:35:13] Água 1/2 utilizada. Restam 9.
+[12/07/2026 23:35:20] Água 2/2 utilizada. Restam 8.
+[12/07/2026 23:35:20] Ciclo 3 concluído.
+[12/07/2026 23:36:20] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:36:23] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:37:23] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:37:27] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:38:27] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:38:31] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:39:31] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:39:34] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:40:34] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:40:38] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:41:38] Iniciando ciclo 4.
+[12/07/2026 23:41:43] Comida utilizada. Restam 58.
+[12/07/2026 23:41:49] Água 1/2 utilizada. Restam 7.
+[12/07/2026 23:41:55] Água 2/2 utilizada. Restam 6.
+[12/07/2026 23:41:55] Ciclo 4 concluído.
+[12/07/2026 23:42:55] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:42:59] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:43:59] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:44:03] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:45:03] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:45:06] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:45:33] Salário 1 recebido: R$ 2.350,00 | Total: R$ 2.350,00
+[12/07/2026 23:46:06] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:46:10] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:47:10] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:47:13] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:48:13] Iniciando ciclo 5.
+[12/07/2026 23:48:18] Comida utilizada. Restam 57.
+[12/07/2026 23:48:24] Água 1/2 utilizada. Restam 5.
+[12/07/2026 23:48:30] Água 2/2 utilizada. Restam 4.
+[12/07/2026 23:48:30] Ciclo 5 concluído.
+[12/07/2026 23:49:30] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:49:34] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:50:34] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:50:38] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:51:38] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:51:41] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:52:42] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:52:45] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:53:45] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:53:49] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:54:48] Iniciando ciclo 6.
+[12/07/2026 23:54:54] Comida utilizada. Restam 56.
+[12/07/2026 23:55:00] Água 1/2 utilizada. Restam 3.
+[12/07/2026 23:55:06] Água 2/2 utilizada. Restam 2.
+[12/07/2026 23:55:06] Ciclo 6 concluído.
+[12/07/2026 23:56:06] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:56:09] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:57:10] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:57:13] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:58:13] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:58:17] Movimentação para manter personagem acordado concluída.
+[12/07/2026 23:59:17] Iniciada movimentação para manter personagem acordado.
+[12/07/2026 23:59:21] Movimentação para manter personagem acordado concluída.
+[13/07/2026 00:00:21] Iniciada movimentação para manter personagem acordado.
+[13/07/2026 00:00:24] Movimentação para manter personagem acordado concluída.
+[13/07/2026 00:01:24] Iniciando ciclo 7.
+[13/07/2026 00:01:29] Comida utilizada. Restam 55.
+[13/07/2026 00:01:36] Água 1/2 utilizada. Restam 1.
+[13/07/2026 00:01:42] Água 2/2 utilizada. Restam 0.
+[13/07/2026 00:01:42] Ciclo 7 concluído.
+[13/07/2026 00:01:42] Estoque finalizado. Executando F8 -> exit -> Enter.
+[13/07/2026 00:01:46] Automação finalizada.
+[13/07/2026 17:25:53] Automação iniciada com 55 comidas e 15 águas.
+[13/07/2026 17:26:58] Iniciada movimentação para manter personagem acordado.
+[13/07/2026 17:27:01] Movimentação para manter personagem acordado concluída.
+[13/07/2026 17:28:02] Iniciada movimentação para manter personagem acordado.
+[13/07/2026 17:28:05] Movimentação para manter personagem acordado concluída.
+[13/07/2026 17:29:05] Iniciada movimentação para manter personagem acordado.
+[13/07/2026 17:29:09] Movimentação para manter personagem acordado concluída.
+[13/07/2026 17:30:09] Iniciada movimentação para manter personagem acordado.
+[13/07/2026 17:30:12] Movimentação para manter personagem acordado concluída.
+[13/07/2026 17:31:12] Iniciada movimentação para manter personagem acordado.
+[13/07/2026 17:31:16] Movimentação para manter personagem acordado concluída.
+[13/07/2026 17:32:16] Iniciando ciclo 1.
+[13/07/2026 17:32:21] Comida utilizada. Restam 54.
+[13/07/2026 17:32:27] Água 1/2 utilizada. Restam 14.
+[13/07/2026 17:32:33] Água 2/2 utilizada. Restam 13.
+[13/07/2026 17:32:33] Ciclo 1 concluído.
+[13/07/2026 17:33:33] Iniciada movimentação para manter personagem acordado.
+[13/07/2026 17:33:37] Movimentação para manter personagem acordado concluída.
+[13/07/2026 17:34:37] Iniciada movimentação para manter personagem acordado.
+[13/07/2026 17:34:41] Movimentação para manter personagem acordado concluída.
+[13/07/2026 17:35:41] Iniciada movimentação para manter personagem acordado.
+[13/07/2026 17:35:45] Movimentação para manter personagem acordado concluída.
+[13/07/2026 17:36:45] Iniciada movimentação para manter personagem acordado.
+[13/07/2026 17:36:48] Movimentação para manter personagem acordado concluída.
+[13/07/2026 17:37:48] Iniciada movimentação para manter personagem acordado.
+[13/07/2026 17:37:52] Movimentação para manter personagem acordado concluída.
+[13/07/2026 17:38:03] Automação interrompida pelo terminal.
+[13/07/2026 17:38:03] Automação finalizada.
+[18/07/2026 10:46:55] Automação iniciada com 55 comidas e 10 águas.
+[18/07/2026 10:48:00] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 10:48:04] Movimentação para manter personagem acordado concluída.
+[18/07/2026 10:49:04] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 10:49:08] Movimentação para manter personagem acordado concluída.
+[18/07/2026 10:50:08] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 10:50:11] Movimentação para manter personagem acordado concluída.
+[18/07/2026 10:51:11] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 10:51:15] Movimentação para manter personagem acordado concluída.
+[18/07/2026 10:52:15] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 10:52:18] Movimentação para manter personagem acordado concluída.
+[18/07/2026 10:53:18] Iniciando ciclo 1.
+[18/07/2026 10:53:23] Comida utilizada. Restam 54.
+[18/07/2026 10:53:26] Automação interrompida pelo terminal.
+[18/07/2026 10:53:26] Automação finalizada.
+[18/07/2026 10:57:20] Automação iniciada com 23 comidas e 10 águas.
+[18/07/2026 10:58:25] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 10:58:29] Movimentação para manter personagem acordado concluída.
+[18/07/2026 10:59:29] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 10:59:33] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:00:33] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:00:36] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:01:36] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:01:40] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:02:40] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:02:43] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:03:43] Iniciando ciclo 1.
+[18/07/2026 11:03:48] Comida utilizada. Restam 22.
+[18/07/2026 11:03:55] Água 1/1 utilizada. Restam 9.
+[18/07/2026 11:03:55] Ciclo 1 concluído.
+[18/07/2026 11:04:55] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:04:58] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:05:58] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:06:02] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:07:02] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:07:05] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:08:06] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:08:09] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:09:09] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:09:13] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:10:12] Iniciando ciclo 2.
+[18/07/2026 11:10:18] Comida utilizada. Restam 21.
+[18/07/2026 11:10:24] Água 1/1 utilizada. Restam 8.
+[18/07/2026 11:10:24] Ciclo 2 concluído.
+[18/07/2026 11:11:24] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:11:27] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:12:27] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:12:31] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:13:31] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:13:34] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:14:35] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:14:38] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:15:38] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:15:42] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:16:41] Iniciando ciclo 3.
+[18/07/2026 11:16:47] Comida utilizada. Restam 20.
+[18/07/2026 11:16:53] Água 1/1 utilizada. Restam 7.
+[18/07/2026 11:16:53] Ciclo 3 concluído.
+[18/07/2026 11:17:53] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:17:56] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:18:56] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:19:00] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:20:00] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:20:04] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:21:04] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:21:07] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:22:07] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:22:11] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:23:11] Iniciando ciclo 4.
+[18/07/2026 11:23:16] Comida utilizada. Restam 19.
+[18/07/2026 11:23:22] Água 1/1 utilizada. Restam 6.
+[18/07/2026 11:23:22] Ciclo 4 concluído.
+[18/07/2026 11:24:22] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:24:26] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:25:26] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:25:29] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:26:29] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:26:33] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:27:26] Salário 1 recebido: R$ 2.350,00 | Total: R$ 2.350,00
+[18/07/2026 11:27:33] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:27:36] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:28:36] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:28:40] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:29:40] Iniciando ciclo 5.
+[18/07/2026 11:29:45] Comida utilizada. Restam 18.
+[18/07/2026 11:29:51] Água 1/1 utilizada. Restam 5.
+[18/07/2026 11:29:51] Ciclo 5 concluído.
+[18/07/2026 11:30:51] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:30:54] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:31:55] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:31:58] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:32:58] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:33:01] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:34:02] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:34:05] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:35:05] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:35:09] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:36:08] Iniciando ciclo 6.
+[18/07/2026 11:36:14] Comida utilizada. Restam 17.
+[18/07/2026 11:36:20] Água 1/1 utilizada. Restam 4.
+[18/07/2026 11:36:20] Ciclo 6 concluído.
+[18/07/2026 11:37:20] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:37:23] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:38:23] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:38:27] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:39:27] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:39:30] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:40:30] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:40:34] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:41:34] Iniciada movimentação para manter personagem acordado.
+[18/07/2026 11:41:38] Movimentação para manter personagem acordado concluída.
+[18/07/2026 11:42:37] Iniciando ciclo 7.
+[18/07/2026 11:42:43] Comida utilizada. Restam 16.
+[18/07/2026 11:42:49] Água 1/1 utilizada. Restam 3.
+[18/07/2026 11:42:49] Ciclo 7 concluído.
+[18/07/2026 11:43:11] Automação interrompida pelo terminal.
+[18/07/2026 11:43:11] Automação finalizada.
+[24/07/2026 15:53:21] Automação iniciada com 52 comidas e 11 águas.
+[24/07/2026 15:53:34] Automação interrompida pelo terminal.
+[24/07/2026 15:53:34] Automação finalizada.
+[24/07/2026 15:54:07] Automação iniciada com 52 comidas e 11 águas.
+[24/07/2026 15:55:13] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 15:55:15] Movimentação para manter personagem acordado concluída.
+[24/07/2026 15:56:15] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 15:56:17] Movimentação para manter personagem acordado concluída.
+[24/07/2026 15:57:17] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 15:57:19] Movimentação para manter personagem acordado concluída.
+[24/07/2026 15:58:19] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 15:58:21] Movimentação para manter personagem acordado concluída.
+[24/07/2026 15:59:21] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 15:59:23] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:00:23] Iniciando ciclo 1.
+[24/07/2026 16:00:28] Comida utilizada. Restam 51.
+[24/07/2026 16:00:34] Água 1/1 utilizada. Restam 10.
+[24/07/2026 16:00:34] Ciclo 1 concluído.
+[24/07/2026 16:01:34] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:01:36] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:02:36] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:02:38] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:03:38] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:03:40] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:04:40] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:04:42] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:05:42] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:05:44] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:06:44] Iniciando ciclo 2.
+[24/07/2026 16:06:49] Comida utilizada. Restam 50.
+[24/07/2026 16:06:55] Água 1/1 utilizada. Restam 9.
+[24/07/2026 16:06:55] Ciclo 2 concluído.
+[24/07/2026 16:07:55] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:07:57] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:08:57] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:08:59] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:09:59] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:10:01] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:11:01] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:11:03] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:12:03] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:12:05] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:13:05] Iniciando ciclo 3.
+[24/07/2026 16:13:10] Comida utilizada. Restam 49.
+[24/07/2026 16:13:16] Água 1/1 utilizada. Restam 8.
+[24/07/2026 16:13:16] Ciclo 3 concluído.
+[24/07/2026 16:14:16] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:14:18] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:15:18] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:15:20] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:16:20] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:16:22] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:17:22] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:17:24] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:18:24] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:18:26] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:19:25] Iniciando ciclo 4.
+[24/07/2026 16:19:31] Comida utilizada. Restam 48.
+[24/07/2026 16:19:37] Água 1/1 utilizada. Restam 7.
+[24/07/2026 16:19:37] Ciclo 4 concluído.
+[24/07/2026 16:20:37] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:20:38] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:21:39] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:21:41] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:22:41] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:22:43] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:23:43] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:23:45] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:24:13] Salário 1 recebido: R$ 2.350,00 | Total: R$ 2.350,00
+[24/07/2026 16:24:45] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:24:47] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:25:46] Iniciando ciclo 5.
+[24/07/2026 16:25:52] Comida utilizada. Restam 47.
+[24/07/2026 16:25:58] Água 1/1 utilizada. Restam 6.
+[24/07/2026 16:25:58] Ciclo 5 concluído.
+[24/07/2026 16:26:58] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:27:00] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:28:00] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:28:02] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:29:02] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:29:04] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:30:04] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:30:06] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:31:06] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:31:08] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:32:08] Iniciando ciclo 6.
+[24/07/2026 16:32:13] Comida utilizada. Restam 46.
+[24/07/2026 16:32:19] Água 1/1 utilizada. Restam 5.
+[24/07/2026 16:32:19] Ciclo 6 concluído.
+[24/07/2026 16:33:19] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:33:21] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:34:21] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:34:23] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:35:23] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:35:25] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:36:25] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:36:27] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:37:27] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:37:29] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:38:29] Iniciando ciclo 7.
+[24/07/2026 16:38:34] Comida utilizada. Restam 45.
+[24/07/2026 16:38:40] Água 1/1 utilizada. Restam 4.
+[24/07/2026 16:38:40] Ciclo 7 concluído.
+[24/07/2026 16:39:40] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:39:42] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:40:42] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:40:44] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:41:44] Iniciada movimentação para manter personagem acordado.
+[24/07/2026 16:41:46] Movimentação para manter personagem acordado concluída.
+[24/07/2026 16:42:17] Automação interrompida pelo terminal.
+[24/07/2026 16:42:18] Automação finalizada.
+[08/08/2026 08:42:37] Automação iniciada com 52 comidas e 11 águas.
+[08/08/2026 08:43:42] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 08:43:44] Movimentação para manter personagem acordado concluída.
+[08/08/2026 08:44:44] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 08:44:45] Movimentação para manter personagem acordado concluída.
+[08/08/2026 08:45:46] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 08:45:47] Movimentação para manter personagem acordado concluída.
+[08/08/2026 08:46:48] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 08:46:49] Movimentação para manter personagem acordado concluída.
+[08/08/2026 08:47:50] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 08:47:51] Movimentação para manter personagem acordado concluída.
+[08/08/2026 08:48:51] Iniciando ciclo 1.
+[08/08/2026 08:48:56] Comida utilizada. Restam 51.
+[08/08/2026 08:49:03] Água 1/1 utilizada. Restam 10.
+[08/08/2026 08:49:03] Ciclo 1 concluído.
+[08/08/2026 08:50:03] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 08:50:05] Movimentação para manter personagem acordado concluída.
+[08/08/2026 08:51:05] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 08:51:07] Movimentação para manter personagem acordado concluída.
+[08/08/2026 08:52:07] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 08:52:09] Movimentação para manter personagem acordado concluída.
+[08/08/2026 08:53:09] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 08:53:11] Movimentação para manter personagem acordado concluída.
+[08/08/2026 08:54:11] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 08:54:13] Movimentação para manter personagem acordado concluída.
+[08/08/2026 08:55:12] Iniciando ciclo 2.
+[08/08/2026 08:55:18] Comida utilizada. Restam 50.
+[08/08/2026 08:55:24] Água 1/1 utilizada. Restam 9.
+[08/08/2026 08:55:24] Ciclo 2 concluído.
+[08/08/2026 08:56:24] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 08:56:26] Movimentação para manter personagem acordado concluída.
+[08/08/2026 08:57:26] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 08:57:27] Movimentação para manter personagem acordado concluída.
+[08/08/2026 08:58:28] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 08:58:30] Movimentação para manter personagem acordado concluída.
+[08/08/2026 08:59:30] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 08:59:32] Movimentação para manter personagem acordado concluída.
+[08/08/2026 09:00:32] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 09:00:34] Movimentação para manter personagem acordado concluída.
+[08/08/2026 09:01:34] Iniciando ciclo 3.
+[08/08/2026 09:01:39] Comida utilizada. Restam 49.
+[08/08/2026 09:01:45] Água 1/1 utilizada. Restam 8.
+[08/08/2026 09:01:45] Ciclo 3 concluído.
+[08/08/2026 09:02:30] Automação interrompida pelo terminal.
+[08/08/2026 09:02:30] Automação finalizada.
+[08/08/2026 09:52:37] Automação iniciada com 52 comidas e 11 águas.
+[08/08/2026 09:52:43] Automação interrompida pelo terminal.
+[08/08/2026 09:52:43] Automação finalizada.
+[08/08/2026 09:53:38] Automação iniciada com 37 comidas e 13 águas.
+[08/08/2026 09:54:43] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 09:54:45] Movimentação para manter personagem acordado concluída.
+[08/08/2026 09:55:45] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 09:55:46] Movimentação para manter personagem acordado concluída.
+[08/08/2026 09:56:46] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 09:56:48] Movimentação para manter personagem acordado concluída.
+[08/08/2026 09:57:48] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 09:57:50] Movimentação para manter personagem acordado concluída.
+[08/08/2026 09:58:50] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 09:58:52] Movimentação para manter personagem acordado concluída.
+[08/08/2026 09:59:52] Iniciando ciclo 1.
+[08/08/2026 09:59:57] Comida utilizada. Restam 36.
+[08/08/2026 10:00:03] Água 1/1 utilizada. Restam 12.
+[08/08/2026 10:00:03] Ciclo 1 concluído.
+[08/08/2026 10:01:03] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 10:01:05] Movimentação para manter personagem acordado concluída.
+[08/08/2026 10:02:05] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 10:02:07] Movimentação para manter personagem acordado concluída.
+[08/08/2026 10:03:07] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 10:03:09] Movimentação para manter personagem acordado concluída.
+[08/08/2026 10:04:09] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 10:04:11] Movimentação para manter personagem acordado concluída.
+[08/08/2026 10:05:11] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 10:05:13] Movimentação para manter personagem acordado concluída.
+[08/08/2026 10:06:13] Iniciando ciclo 2.
+[08/08/2026 10:06:18] Comida utilizada. Restam 35.
+[08/08/2026 10:06:24] Água 1/1 utilizada. Restam 11.
+[08/08/2026 10:06:24] Ciclo 2 concluído.
+[08/08/2026 10:07:24] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 10:07:26] Movimentação para manter personagem acordado concluída.
+[08/08/2026 10:08:26] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 10:08:28] Movimentação para manter personagem acordado concluída.
+[08/08/2026 10:09:28] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 10:09:30] Movimentação para manter personagem acordado concluída.
+[08/08/2026 10:10:30] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 10:10:32] Movimentação para manter personagem acordado concluída.
+[08/08/2026 10:11:32] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 10:11:34] Movimentação para manter personagem acordado concluída.
+[08/08/2026 10:12:34] Iniciando ciclo 3.
+[08/08/2026 10:12:39] Comida utilizada. Restam 34.
+[08/08/2026 10:12:45] Água 1/1 utilizada. Restam 10.
+[08/08/2026 10:12:45] Ciclo 3 concluído.
+[08/08/2026 10:13:45] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 10:13:47] Movimentação para manter personagem acordado concluída.
+[08/08/2026 10:14:47] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 10:14:49] Movimentação para manter personagem acordado concluída.
+[08/08/2026 10:15:49] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 10:15:51] Movimentação para manter personagem acordado concluída.
+[08/08/2026 10:16:51] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 10:16:53] Movimentação para manter personagem acordado concluída.
+[08/08/2026 10:17:53] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 10:17:55] Movimentação para manter personagem acordado concluída.
+[08/08/2026 10:18:55] Iniciando ciclo 4.
+[08/08/2026 10:19:00] Comida utilizada. Restam 33.
+[08/08/2026 10:19:06] Água 1/1 utilizada. Restam 9.
+[08/08/2026 10:19:06] Ciclo 4 concluído.
+[08/08/2026 10:20:06] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 10:20:08] Movimentação para manter personagem acordado concluída.
+[08/08/2026 10:21:08] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 10:21:10] Movimentação para manter personagem acordado concluída.
+[08/08/2026 10:22:10] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 10:22:12] Movimentação para manter personagem acordado concluída.
+[08/08/2026 10:23:12] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 10:23:14] Movimentação para manter personagem acordado concluída.
+[08/08/2026 10:23:43] Salário 1 recebido: R$ 2.350,00 | Total: R$ 2.350,00
+[08/08/2026 10:24:14] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 10:24:16] Movimentação para manter personagem acordado concluída.
+[08/08/2026 10:25:15] Iniciando ciclo 5.
+[08/08/2026 10:25:21] Comida utilizada. Restam 32.
+[08/08/2026 10:25:27] Água 1/1 utilizada. Restam 8.
+[08/08/2026 10:25:27] Ciclo 5 concluído.
+[08/08/2026 10:26:27] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 10:26:29] Movimentação para manter personagem acordado concluída.
+[08/08/2026 10:27:29] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 10:27:31] Movimentação para manter personagem acordado concluída.
+[08/08/2026 10:28:31] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 10:28:33] Movimentação para manter personagem acordado concluída.
+[08/08/2026 10:29:33] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 10:29:35] Movimentação para manter personagem acordado concluída.
+[08/08/2026 10:30:35] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 10:30:36] Movimentação para manter personagem acordado concluída.
+[08/08/2026 10:31:36] Iniciando ciclo 6.
+[08/08/2026 10:31:41] Comida utilizada. Restam 31.
+[08/08/2026 10:31:48] Água 1/1 utilizada. Restam 7.
+[08/08/2026 10:31:48] Ciclo 6 concluído.
+[08/08/2026 10:32:48] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 10:32:50] Movimentação para manter personagem acordado concluída.
+[08/08/2026 10:33:50] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 10:33:52] Movimentação para manter personagem acordado concluída.
+[08/08/2026 10:34:52] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 10:34:54] Movimentação para manter personagem acordado concluída.
+[08/08/2026 10:35:54] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 10:35:55] Movimentação para manter personagem acordado concluída.
+[08/08/2026 10:36:56] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 10:36:57] Movimentação para manter personagem acordado concluída.
+[08/08/2026 10:37:57] Iniciando ciclo 7.
+[08/08/2026 10:38:02] Comida utilizada. Restam 30.
+[08/08/2026 10:38:09] Água 1/1 utilizada. Restam 6.
+[08/08/2026 10:38:09] Ciclo 7 concluído.
+[08/08/2026 10:39:09] Iniciada movimentação para manter personagem acordado.
+[08/08/2026 10:39:10] Movimentação para manter personagem acordado concluída.
+[08/08/2026 10:39:12] Automação interrompida pelo terminal.
+[08/08/2026 10:39:13] Automação finalizada.
+[09/09/2026 19:26:46] Automação iniciada com 38 comidas e 13 águas.
+[09/09/2026 19:27:51] Iniciada movimentação para manter personagem acordado.
+[09/09/2026 19:27:53] Movimentação para manter personagem acordado concluída.
+[09/09/2026 19:28:16] Automação interrompida pelo terminal.
+[09/09/2026 19:28:16] Automação finalizada.
+[09/09/2026 19:29:44] Automação iniciada com 38 comidas e 13 águas.
+[09/09/2026 19:30:49] Iniciada movimentação para manter personagem acordado.
+[09/09/2026 19:30:51] Movimentação para manter personagem acordado concluída.
+[09/09/2026 19:31:51] Iniciada movimentação para manter personagem acordado.
+[09/09/2026 19:31:53] Movimentação para manter personagem acordado concluída.
+[09/09/2026 19:32:53] Iniciada movimentação para manter personagem acordado.
+[09/09/2026 19:32:55] Movimentação para manter personagem acordado concluída.
+[09/09/2026 19:33:55] Iniciada movimentação para manter personagem acordado.
+[09/09/2026 19:33:57] Movimentação para manter personagem acordado concluída.
+[09/09/2026 19:34:57] Iniciada movimentação para manter personagem acordado.
+[09/09/2026 19:34:59] Movimentação para manter personagem acordado concluída.
+[09/09/2026 19:35:59] Iniciando ciclo 1.
+[09/09/2026 19:36:04] Comida utilizada. Restam 37.
+[09/09/2026 19:36:10] Água 1/1 utilizada. Restam 12.
+[09/09/2026 19:36:10] Ciclo 1 concluído.
+[09/09/2026 19:37:10] Iniciada movimentação para manter personagem acordado.
+[09/09/2026 19:37:12] Movimentação para manter personagem acordado concluída.
+[09/09/2026 19:38:12] Iniciada movimentação para manter personagem acordado.
+[09/09/2026 19:38:14] Movimentação para manter personagem acordado concluída.
+[09/09/2026 19:39:14] Iniciada movimentação para manter personagem acordado.
+[09/09/2026 19:39:16] Movimentação para manter personagem acordado concluída.
+[09/09/2026 19:40:16] Iniciada movimentação para manter personagem acordado.
+[09/09/2026 19:40:18] Movimentação para manter personagem acordado concluída.
+[09/09/2026 19:41:18] Iniciada movimentação para manter personagem acordado.
+[09/09/2026 19:41:20] Movimentação para manter personagem acordado concluída.
+[09/09/2026 19:42:20] Iniciando ciclo 2.
+[09/09/2026 19:42:25] Comida utilizada. Restam 36.
+[09/09/2026 19:42:31] Água 1/1 utilizada. Restam 11.
+[09/09/2026 19:42:31] Ciclo 2 concluído.
+[09/09/2026 19:43:31] Iniciada movimentação para manter personagem acordado.
+[09/09/2026 19:43:33] Movimentação para manter personagem acordado concluída.
+[09/09/2026 19:43:40] Automação interrompida pelo terminal.
+[09/09/2026 19:43:40] Automação finalizada.
+[10/09/2026 17:48:45] Automação iniciada com 30 comidas e 16 águas.
+[10/09/2026 17:49:50] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 17:49:52] Movimentação para manter personagem acordado concluída.
+[10/09/2026 17:50:52] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 17:50:54] Movimentação para manter personagem acordado concluída.
+[10/09/2026 17:51:54] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 17:51:56] Movimentação para manter personagem acordado concluída.
+[10/09/2026 17:52:56] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 17:52:58] Movimentação para manter personagem acordado concluída.
+[10/09/2026 17:53:58] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 17:54:00] Movimentação para manter personagem acordado concluída.
+[10/09/2026 17:55:00] Iniciando ciclo 1.
+[10/09/2026 17:55:05] Comida utilizada. Restam 29.
+[10/09/2026 17:55:11] Água 1/1 utilizada. Restam 15.
+[10/09/2026 17:55:11] Ciclo 1 concluído.
+[10/09/2026 17:56:11] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 17:56:13] Movimentação para manter personagem acordado concluída.
+[10/09/2026 17:57:13] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 17:57:15] Movimentação para manter personagem acordado concluída.
+[10/09/2026 17:58:15] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 17:58:17] Movimentação para manter personagem acordado concluída.
+[10/09/2026 17:59:17] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 17:59:19] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:00:19] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:00:21] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:01:21] Iniciando ciclo 2.
+[10/09/2026 18:01:26] Comida utilizada. Restam 28.
+[10/09/2026 18:01:33] Água 1/1 utilizada. Restam 14.
+[10/09/2026 18:01:33] Ciclo 2 concluído.
+[10/09/2026 18:02:33] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:02:35] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:03:35] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:03:36] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:04:37] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:04:38] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:05:38] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:05:40] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:06:40] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:06:42] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:07:42] Iniciando ciclo 3.
+[10/09/2026 18:07:47] Comida utilizada. Restam 27.
+[10/09/2026 18:07:54] Água 1/1 utilizada. Restam 13.
+[10/09/2026 18:07:54] Ciclo 3 concluído.
+[10/09/2026 18:08:54] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:08:56] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:09:56] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:09:57] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:10:58] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:10:59] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:12:00] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:12:01] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:13:01] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:13:03] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:14:03] Iniciando ciclo 4.
+[10/09/2026 18:14:08] Comida utilizada. Restam 26.
+[10/09/2026 18:14:15] Água 1/1 utilizada. Restam 12.
+[10/09/2026 18:14:15] Ciclo 4 concluído.
+[10/09/2026 18:15:15] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:15:17] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:16:17] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:16:18] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:17:18] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:17:20] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:18:20] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:18:22] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:18:50] Salário 1 recebido: R$ 2.350,00 | Total: R$ 2.350,00
+[10/09/2026 18:19:22] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:19:24] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:20:24] Iniciando ciclo 5.
+[10/09/2026 18:20:29] Comida utilizada. Restam 25.
+[10/09/2026 18:20:35] Água 1/1 utilizada. Restam 11.
+[10/09/2026 18:20:35] Ciclo 5 concluído.
+[10/09/2026 18:21:35] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:21:37] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:22:37] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:22:39] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:23:39] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:23:41] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:24:41] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:24:43] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:25:43] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:25:45] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:26:45] Iniciando ciclo 6.
+[10/09/2026 18:26:50] Comida utilizada. Restam 24.
+[10/09/2026 18:26:56] Água 1/1 utilizada. Restam 10.
+[10/09/2026 18:26:56] Ciclo 6 concluído.
+[10/09/2026 18:27:56] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:27:58] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:28:59] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:29:01] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:30:01] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:30:02] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:31:03] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:31:04] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:32:04] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:32:06] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:33:06] Iniciando ciclo 7.
+[10/09/2026 18:33:11] Comida utilizada. Restam 23.
+[10/09/2026 18:33:17] Água 1/1 utilizada. Restam 9.
+[10/09/2026 18:33:17] Ciclo 7 concluído.
+[10/09/2026 18:34:17] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:34:19] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:35:19] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:35:21] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:36:22] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:36:23] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:37:24] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:37:26] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:38:26] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:38:28] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:39:27] Iniciando ciclo 8.
+[10/09/2026 18:39:33] Comida utilizada. Restam 22.
+[10/09/2026 18:39:39] Água 1/1 utilizada. Restam 8.
+[10/09/2026 18:39:39] Ciclo 8 concluído.
+[10/09/2026 18:40:39] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:40:41] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:41:41] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:41:43] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:42:43] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:42:44] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:43:45] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:43:46] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:44:46] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:44:48] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:45:48] Iniciando ciclo 9.
+[10/09/2026 18:45:53] Comida utilizada. Restam 21.
+[10/09/2026 18:45:59] Água 1/1 utilizada. Restam 7.
+[10/09/2026 18:45:59] Ciclo 9 concluído.
+[10/09/2026 18:47:00] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:47:01] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:48:01] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:48:03] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:48:50] Salário 2 recebido: R$ 2.350,00 | Total: R$ 4.700,00
+[10/09/2026 18:49:03] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:49:05] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:50:05] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:50:07] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:51:07] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:51:09] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:52:09] Iniciando ciclo 10.
+[10/09/2026 18:52:14] Comida utilizada. Restam 20.
+[10/09/2026 18:52:20] Água 1/1 utilizada. Restam 6.
+[10/09/2026 18:52:20] Ciclo 10 concluído.
+[10/09/2026 18:53:20] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:53:22] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:54:22] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:54:24] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:55:24] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:55:26] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:56:26] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:56:28] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:57:28] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:57:30] Movimentação para manter personagem acordado concluída.
+[10/09/2026 18:58:29] Iniciando ciclo 11.
+[10/09/2026 18:58:35] Comida utilizada. Restam 19.
+[10/09/2026 18:58:41] Água 1/1 utilizada. Restam 5.
+[10/09/2026 18:58:41] Ciclo 11 concluído.
+[10/09/2026 18:59:41] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 18:59:43] Movimentação para manter personagem acordado concluída.
+[10/09/2026 19:00:43] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 19:00:45] Movimentação para manter personagem acordado concluída.
+[10/09/2026 19:01:45] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 19:01:46] Movimentação para manter personagem acordado concluída.
+[10/09/2026 19:02:46] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 19:02:48] Movimentação para manter personagem acordado concluída.
+[10/09/2026 19:03:48] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 19:03:50] Movimentação para manter personagem acordado concluída.
+[10/09/2026 19:04:50] Iniciando ciclo 12.
+[10/09/2026 19:04:55] Comida utilizada. Restam 18.
+[10/09/2026 19:05:01] Água 1/1 utilizada. Restam 4.
+[10/09/2026 19:05:01] Ciclo 12 concluído.
+[10/09/2026 19:06:02] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 19:06:03] Movimentação para manter personagem acordado concluída.
+[10/09/2026 19:07:04] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 19:07:05] Movimentação para manter personagem acordado concluída.
+[10/09/2026 19:08:05] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 19:08:07] Movimentação para manter personagem acordado concluída.
+[10/09/2026 19:09:07] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 19:09:09] Movimentação para manter personagem acordado concluída.
+[10/09/2026 19:10:09] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 19:10:11] Movimentação para manter personagem acordado concluída.
+[10/09/2026 19:11:11] Iniciando ciclo 13.
+[10/09/2026 19:11:16] Comida utilizada. Restam 17.
+[10/09/2026 19:11:22] Água 1/1 utilizada. Restam 3.
+[10/09/2026 19:11:22] Ciclo 13 concluído.
+[10/09/2026 19:12:22] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 19:12:24] Movimentação para manter personagem acordado concluída.
+[10/09/2026 19:13:24] Iniciada movimentação para manter personagem acordado.
+[10/09/2026 19:13:26] Movimentação para manter personagem acordado concluída.
+[10/09/2026 19:13:55] Automação interrompida pelo terminal.
+[10/09/2026 19:13:55] Automação finalizada.
+[11/09/2026 17:47:48] Automação iniciada com 30 comidas e 16 águas.
+[11/09/2026 17:48:53] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 17:48:55] Movimentação para manter personagem acordado concluída.
+[11/09/2026 17:49:55] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 17:49:57] Movimentação para manter personagem acordado concluída.
+[11/09/2026 17:50:57] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 17:50:58] Movimentação para manter personagem acordado concluída.
+[11/09/2026 17:51:58] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 17:52:00] Movimentação para manter personagem acordado concluída.
+[11/09/2026 17:53:00] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 17:53:02] Movimentação para manter personagem acordado concluída.
+[11/09/2026 17:54:02] Iniciando ciclo 1.
+[11/09/2026 17:54:07] Comida utilizada. Restam 29.
+[11/09/2026 17:54:13] Água 1/1 utilizada. Restam 15.
+[11/09/2026 17:54:13] Ciclo 1 concluído.
+[11/09/2026 17:55:13] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 17:55:15] Movimentação para manter personagem acordado concluída.
+[11/09/2026 17:56:15] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 17:56:17] Movimentação para manter personagem acordado concluída.
+[11/09/2026 17:57:17] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 17:57:19] Movimentação para manter personagem acordado concluída.
+[11/09/2026 17:58:19] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 17:58:21] Movimentação para manter personagem acordado concluída.
+[11/09/2026 17:59:21] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 17:59:23] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:00:22] Iniciando ciclo 2.
+[11/09/2026 18:00:28] Comida utilizada. Restam 28.
+[11/09/2026 18:00:34] Água 1/1 utilizada. Restam 14.
+[11/09/2026 18:00:34] Ciclo 2 concluído.
+[11/09/2026 18:01:34] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:01:36] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:02:36] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:02:38] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:03:38] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:03:40] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:04:40] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:04:42] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:05:42] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:05:44] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:06:44] Iniciando ciclo 3.
+[11/09/2026 18:06:49] Comida utilizada. Restam 27.
+[11/09/2026 18:06:55] Água 1/1 utilizada. Restam 13.
+[11/09/2026 18:06:55] Ciclo 3 concluído.
+[11/09/2026 18:07:55] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:07:57] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:08:57] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:08:59] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:09:59] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:10:01] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:11:01] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:11:03] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:12:03] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:12:05] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:13:05] Iniciando ciclo 4.
+[11/09/2026 18:13:10] Comida utilizada. Restam 26.
+[11/09/2026 18:13:16] Água 1/1 utilizada. Restam 12.
+[11/09/2026 18:13:16] Ciclo 4 concluído.
+[11/09/2026 18:14:17] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:14:19] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:15:19] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:15:21] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:16:21] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:16:23] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:17:23] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:17:25] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:17:53] Salário 1 recebido: R$ 2.350,00 | Total: R$ 2.350,00
+[11/09/2026 18:18:25] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:18:27] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:19:27] Iniciando ciclo 5.
+[11/09/2026 18:19:32] Comida utilizada. Restam 25.
+[11/09/2026 18:19:38] Água 1/1 utilizada. Restam 11.
+[11/09/2026 18:19:38] Ciclo 5 concluído.
+[11/09/2026 18:20:38] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:20:40] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:21:40] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:21:42] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:22:42] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:22:44] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:23:44] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:23:46] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:24:46] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:24:48] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:25:48] Iniciando ciclo 6.
+[11/09/2026 18:25:53] Comida utilizada. Restam 24.
+[11/09/2026 18:25:59] Água 1/1 utilizada. Restam 10.
+[11/09/2026 18:25:59] Ciclo 6 concluído.
+[11/09/2026 18:26:59] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:27:01] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:28:01] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:28:03] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:29:03] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:29:05] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:30:05] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:30:07] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:31:07] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:31:09] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:32:09] Iniciando ciclo 7.
+[11/09/2026 18:32:14] Comida utilizada. Restam 23.
+[11/09/2026 18:32:20] Água 1/1 utilizada. Restam 9.
+[11/09/2026 18:32:20] Ciclo 7 concluído.
+[11/09/2026 18:33:20] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:33:22] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:34:22] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:34:24] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:35:24] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:35:26] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:36:26] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:36:28] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:37:28] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:37:30] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:38:30] Iniciando ciclo 8.
+[11/09/2026 18:38:35] Comida utilizada. Restam 22.
+[11/09/2026 18:38:41] Água 1/1 utilizada. Restam 8.
+[11/09/2026 18:38:41] Ciclo 8 concluído.
+[11/09/2026 18:39:41] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:39:43] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:40:43] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:40:45] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:41:45] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:41:47] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:42:47] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:42:49] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:43:49] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:43:51] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:44:51] Iniciando ciclo 9.
+[11/09/2026 18:44:56] Comida utilizada. Restam 21.
+[11/09/2026 18:45:02] Água 1/1 utilizada. Restam 7.
+[11/09/2026 18:45:02] Ciclo 9 concluído.
+[11/09/2026 18:46:02] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:46:04] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:47:04] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:47:06] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:47:53] Salário 2 recebido: R$ 2.350,00 | Total: R$ 4.700,00
+[11/09/2026 18:48:06] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:48:08] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:49:08] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:49:10] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:50:10] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:50:12] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:51:12] Iniciando ciclo 10.
+[11/09/2026 18:51:17] Comida utilizada. Restam 20.
+[11/09/2026 18:51:23] Água 1/1 utilizada. Restam 6.
+[11/09/2026 18:51:23] Ciclo 10 concluído.
+[11/09/2026 18:52:23] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:52:25] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:53:25] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:53:27] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:54:27] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:54:29] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:55:29] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:55:31] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:56:31] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:56:33] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:57:33] Iniciando ciclo 11.
+[11/09/2026 18:57:38] Comida utilizada. Restam 19.
+[11/09/2026 18:57:44] Água 1/1 utilizada. Restam 5.
+[11/09/2026 18:57:44] Ciclo 11 concluído.
+[11/09/2026 18:58:44] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:58:46] Movimentação para manter personagem acordado concluída.
+[11/09/2026 18:59:47] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 18:59:48] Movimentação para manter personagem acordado concluída.
+[11/09/2026 19:00:49] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 19:00:51] Movimentação para manter personagem acordado concluída.
+[11/09/2026 19:01:51] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 19:01:52] Movimentação para manter personagem acordado concluída.
+[11/09/2026 19:02:53] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 19:02:54] Movimentação para manter personagem acordado concluída.
+[11/09/2026 19:03:54] Iniciando ciclo 12.
+[11/09/2026 19:03:59] Comida utilizada. Restam 18.
+[11/09/2026 19:04:06] Água 1/1 utilizada. Restam 4.
+[11/09/2026 19:04:06] Ciclo 12 concluído.
+[11/09/2026 19:05:06] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 19:05:07] Movimentação para manter personagem acordado concluída.
+[11/09/2026 19:06:08] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 19:06:09] Movimentação para manter personagem acordado concluída.
+[11/09/2026 19:07:10] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 19:07:11] Movimentação para manter personagem acordado concluída.
+[11/09/2026 19:08:11] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 19:08:13] Movimentação para manter personagem acordado concluída.
+[11/09/2026 19:09:13] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 19:09:15] Movimentação para manter personagem acordado concluída.
+[11/09/2026 19:10:15] Iniciando ciclo 13.
+[11/09/2026 19:10:20] Comida utilizada. Restam 17.
+[11/09/2026 19:10:26] Água 1/1 utilizada. Restam 3.
+[11/09/2026 19:10:26] Ciclo 13 concluído.
+[11/09/2026 19:11:27] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 19:11:28] Movimentação para manter personagem acordado concluída.
+[11/09/2026 19:12:28] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 19:12:30] Movimentação para manter personagem acordado concluída.
+[11/09/2026 19:13:31] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 19:13:32] Movimentação para manter personagem acordado concluída.
+[11/09/2026 19:14:32] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 19:14:34] Movimentação para manter personagem acordado concluída.
+[11/09/2026 19:15:34] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 19:15:36] Movimentação para manter personagem acordado concluída.
+[11/09/2026 19:16:36] Iniciando ciclo 14.
+[11/09/2026 19:16:41] Comida utilizada. Restam 16.
+[11/09/2026 19:16:47] Água 1/1 utilizada. Restam 2.
+[11/09/2026 19:16:47] Ciclo 14 concluído.
+[11/09/2026 19:17:47] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 19:17:49] Movimentação para manter personagem acordado concluída.
+[11/09/2026 19:17:53] Salário 3 recebido: R$ 2.350,00 | Total: R$ 7.050,00
+[11/09/2026 19:18:49] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 19:18:51] Movimentação para manter personagem acordado concluída.
+[11/09/2026 19:19:51] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 19:19:53] Movimentação para manter personagem acordado concluída.
+[11/09/2026 19:20:53] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 19:20:55] Movimentação para manter personagem acordado concluída.
+[11/09/2026 19:21:55] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 19:21:57] Movimentação para manter personagem acordado concluída.
+[11/09/2026 19:22:57] Iniciando ciclo 15.
+[11/09/2026 19:23:02] Comida utilizada. Restam 15.
+[11/09/2026 19:23:08] Água 1/1 utilizada. Restam 1.
+[11/09/2026 19:23:08] Ciclo 15 concluído.
+[11/09/2026 19:24:08] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 19:24:10] Movimentação para manter personagem acordado concluída.
+[11/09/2026 19:25:10] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 19:25:12] Movimentação para manter personagem acordado concluída.
+[11/09/2026 19:26:12] Iniciada movimentação para manter personagem acordado.
+[11/09/2026 19:26:14] Movimentação para manter personagem acordado concluída.
+[11/09/2026 19:26:23] Automação interrompida pelo terminal.
+[11/09/2026 19:26:23] Automação finalizada.
+[18/09/2026 18:08:30] Automação iniciada com 30 comidas e 16 águas.
+[18/09/2026 18:09:35] Iniciada movimentação para manter personagem acordado.
+[18/09/2026 18:09:37] Movimentação para manter personagem acordado concluída.
+[18/09/2026 18:10:37] Iniciada movimentação para manter personagem acordado.
+[18/09/2026 18:10:39] Movimentação para manter personagem acordado concluída.
+[18/09/2026 18:11:39] Iniciada movimentação para manter personagem acordado.
+[18/09/2026 18:11:41] Movimentação para manter personagem acordado concluída.
+[18/09/2026 18:12:41] Iniciada movimentação para manter personagem acordado.
+[18/09/2026 18:12:43] Movimentação para manter personagem acordado concluída.
+[18/09/2026 18:13:43] Iniciada movimentação para manter personagem acordado.
+[18/09/2026 18:13:45] Movimentação para manter personagem acordado concluída.
+[18/09/2026 18:14:45] Iniciando ciclo 1.
+[18/09/2026 18:14:50] Comida utilizada. Restam 29.
+[18/09/2026 18:14:56] Água 1/1 utilizada. Restam 15.
+[18/09/2026 18:14:56] Ciclo 1 concluído.
+[18/09/2026 18:15:56] Iniciada movimentação para manter personagem acordado.
+[18/09/2026 18:15:58] Movimentação para manter personagem acordado concluída.
+[18/09/2026 18:16:58] Iniciada movimentação para manter personagem acordado.
+[18/09/2026 18:17:00] Movimentação para manter personagem acordado concluída.
+[18/09/2026 18:18:00] Iniciada movimentação para manter personagem acordado.
+[18/09/2026 18:18:02] Movimentação para manter personagem acordado concluída.
+[18/09/2026 18:19:02] Iniciada movimentação para manter personagem acordado.
+[18/09/2026 18:19:04] Movimentação para manter personagem acordado concluída.
+[18/09/2026 18:20:04] Iniciada movimentação para manter personagem acordado.
+[18/09/2026 18:20:06] Movimentação para manter personagem acordado concluída.
+[18/09/2026 18:21:06] Iniciando ciclo 2.
+[18/09/2026 18:21:11] Comida utilizada. Restam 28.
+[18/09/2026 18:21:17] Água 1/1 utilizada. Restam 14.
+[18/09/2026 18:21:17] Ciclo 2 concluído.
+[18/09/2026 18:22:17] Iniciada movimentação para manter personagem acordado.
+[18/09/2026 18:22:19] Movimentação para manter personagem acordado concluída.
+[18/09/2026 18:23:19] Iniciada movimentação para manter personagem acordado.
+[18/09/2026 18:23:21] Movimentação para manter personagem acordado concluída.
+[18/09/2026 18:24:21] Iniciada movimentação para manter personagem acordado.
+[18/09/2026 18:24:23] Movimentação para manter personagem acordado concluída.
+[18/09/2026 18:25:23] Iniciada movimentação para manter personagem acordado.
+[18/09/2026 18:25:25] Movimentação para manter personagem acordado concluída.
+[18/09/2026 18:26:25] Iniciada movimentação para manter personagem acordado.
+[18/09/2026 18:26:27] Movimentação para manter personagem acordado concluída.
+[18/09/2026 18:27:27] Iniciando ciclo 3.
+[18/09/2026 18:27:32] Comida utilizada. Restam 27.
+[18/09/2026 18:27:38] Água 1/1 utilizada. Restam 13.
+[18/09/2026 18:27:38] Ciclo 3 concluído.
+[18/09/2026 18:28:38] Iniciada movimentação para manter personagem acordado.
+[18/09/2026 18:28:40] Movimentação para manter personagem acordado concluída.
+[18/09/2026 18:29:40] Iniciada movimentação para manter personagem acordado.
+[18/09/2026 18:29:42] Movimentação para manter personagem acordado concluída.
+[18/09/2026 18:30:42] Iniciada movimentação para manter personagem acordado.
+[18/09/2026 18:30:44] Movimentação para manter personagem acordado concluída.
+[18/09/2026 18:31:44] Iniciada movimentação para manter personagem acordado.
+[18/09/2026 18:31:46] Movimentação para manter personagem acordado concluída.
+[18/09/2026 18:32:46] Iniciada movimentação para manter personagem acordado.
+[18/09/2026 18:32:48] Movimentação para manter personagem acordado concluída.
+[18/09/2026 18:33:48] Iniciando ciclo 4.
+[18/09/2026 18:33:53] Comida utilizada. Restam 26.
+[18/09/2026 18:33:59] Água 1/1 utilizada. Restam 12.
+[18/09/2026 18:33:59] Ciclo 4 concluído.
+[18/09/2026 18:34:59] Iniciada movimentação para manter personagem acordado.
+[18/09/2026 18:35:01] Movimentação para manter personagem acordado concluída.
+[18/09/2026 18:36:01] Iniciada movimentação para manter personagem acordado.
+[18/09/2026 18:36:03] Movimentação para manter personagem acordado concluída.
+[18/09/2026 18:36:28] Automação interrompida pelo terminal.
+[18/09/2026 18:36:28] Automação finalizada.

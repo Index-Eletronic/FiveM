@@ -1,0 +1,8 @@
+{
+  "eat_enabled": true,
+  "eat_key": "4",
+  "eat_minutes": 5.0,
+  "drink_enabled": true,
+  "drink_key": "5",
+  "drink_minutes": 3.0
+}

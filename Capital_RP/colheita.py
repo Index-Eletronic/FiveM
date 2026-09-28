@@ -1,12 +1,50 @@
 from time import sleep, time
-import pyautogui
-import pydirectinput
+
 import cv2
 import numpy as np
+import pyautogui
+import pydirectinput
 
 
 pyautogui.FAILSAFE = True
+pydirectinput.PAUSE = 0.05
 
+
+# ============================================================
+# CONFIGURAÇÕES
+# ============================================================
+
+AREA_MINIMA_DETECCAO = 1500
+
+# Considera que chegou ao alvo quando uma destas condições ocorrer.
+ALTURA_ALVO_PROXIMO = 370
+AREA_ALVO_PROXIMO = 38000
+
+# Tempo máximo andando até uma árvore.
+TEMPO_MAXIMO_ATE_ALVO = 40
+
+# Tempo aguardando após pressionar E.
+TEMPO_COLETA = 5
+
+# Movimento obrigatório para sair do alvo atual.
+TEMPO_SAIDA = 2
+
+# Quantidade de leituras sem alvo antes de parar.
+LIMITE_ALVO_PERDIDO = 15
+
+
+# ============================================================
+# CONTROLE DAS TECLAS
+# ============================================================
+
+def soltar_teclas():
+    for tecla in ("w", "a", "s", "d"):
+        pydirectinput.keyUp(tecla)
+
+
+# ============================================================
+# DETECÇÃO DO TRIÂNGULO VERMELHO
+# ============================================================
 
 def detectar_triangulo_vermelho():
     screenshot = pyautogui.screenshot()
@@ -18,165 +56,242 @@ def detectar_triangulo_vermelho():
 
     hsv = cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)
 
-    vermelho_baixo1 = np.array([0, 80, 80])
-    vermelho_alto1 = np.array([10, 255, 255])
+    vermelho_baixo1 = np.array([0, 90, 90])
+    vermelho_alto1 = np.array([12, 255, 255])
 
-    vermelho_baixo2 = np.array([170, 80, 80])
+    vermelho_baixo2 = np.array([168, 90, 90])
     vermelho_alto2 = np.array([180, 255, 255])
 
-    mask1 = cv2.inRange(hsv, vermelho_baixo1, vermelho_alto1)
-    mask2 = cv2.inRange(hsv, vermelho_baixo2, vermelho_alto2)
+    mascara1 = cv2.inRange(
+        hsv,
+        vermelho_baixo1,
+        vermelho_alto1
+    )
 
-    mask = cv2.bitwise_or(mask1, mask2)
+    mascara2 = cv2.inRange(
+        hsv,
+        vermelho_baixo2,
+        vermelho_alto2
+    )
+
+    mascara = cv2.bitwise_or(mascara1, mascara2)
+
+    kernel = np.ones((5, 5), np.uint8)
+
+    mascara = cv2.morphologyEx(
+        mascara,
+        cv2.MORPH_CLOSE,
+        kernel
+    )
+
+    mascara = cv2.morphologyEx(
+        mascara,
+        cv2.MORPH_OPEN,
+        kernel
+    )
 
     contornos, _ = cv2.findContours(
-        mask,
+        mascara,
         cv2.RETR_EXTERNAL,
         cv2.CHAIN_APPROX_SIMPLE
     )
 
-    maior_area = 0
-    melhor_contorno = None
+    candidatos = []
 
     for contorno in contornos:
         area = cv2.contourArea(contorno)
 
-        if area > maior_area:
-            maior_area = area
-            melhor_contorno = contorno
+        if area < AREA_MINIMA_DETECCAO:
+            continue
 
-    if melhor_contorno is not None and maior_area > 1500:
-        x, y, w, h = cv2.boundingRect(melhor_contorno)
+        x, y, largura, altura = cv2.boundingRect(contorno)
 
-        centro_x = x + w // 2
-        centro_y = y + h // 2
+        if largura < 20 or altura < 40:
+            continue
 
+        centro_x = x + largura // 2
+        centro_y = y + altura // 2
+
+        if centro_y < altura_tela * 0.15:
+            continue
+
+        candidatos.append(
+            {
+                "area": area,
+                "x": x,
+                "y": y,
+                "largura": largura,
+                "altura": altura,
+                "centro_x": centro_x,
+                "centro_y": centro_y,
+                "largura_tela": largura_tela,
+                "altura_tela": altura_tela
+            }
+        )
+
+    if not candidatos:
         return {
-            "encontrou": True,
-            "centro_x": centro_x,
-            "centro_y": centro_y,
+            "encontrou": False,
             "largura_tela": largura_tela,
-            "altura_tela": altura_tela,
-            "area": maior_area
+            "altura_tela": altura_tela
         }
 
-    return {"encontrou": False}
+    centro_tela_x = largura_tela // 2
+
+    # Escolhe o alvo vermelho mais próximo do centro da tela.
+    melhor_alvo = min(
+        candidatos,
+        key=lambda alvo: (
+            abs(alvo["centro_x"] - centro_tela_x),
+            -alvo["area"]
+        )
+    )
+
+    melhor_alvo["encontrou"] = True
+
+    return melhor_alvo
 
 
-def centralizar_no_triangulo():
-    alvo = detectar_triangulo_vermelho()
+# ============================================================
+# IR ATÉ O ALVO
+# ============================================================
 
-    if not alvo["encontrou"]:
-        return False
+def ir_ate_alvo(tempo_maximo=TEMPO_MAXIMO_ATE_ALVO):
+    print("Indo até o alvo...")
 
-    centro_tela_x = alvo["largura_tela"] // 2
-    centro_tela_y = alvo["altura_tela"] // 2
-
-    erro_x = alvo["centro_x"] - centro_tela_x
-    erro_y = alvo["centro_y"] - centro_tela_y
-
-    tolerancia_x = 60
-    tolerancia_y = 80
-
-    print(f"Erro X={erro_x} | Erro Y={erro_y}")
-
-    if erro_x < -tolerancia_x:
-        pydirectinput.press("a")
-        sleep(0.10)
-
-    elif erro_x > tolerancia_x:
-        pydirectinput.press("d")
-        sleep(0.10)
-
-    if erro_y < -tolerancia_y:
-        pydirectinput.press("w")
-        sleep(0.10)
-
-    elif erro_y > tolerancia_y:
-        pydirectinput.press("s")
-        sleep(0.10)
-
-    centralizado_x = abs(erro_x) <= tolerancia_x
-    centralizado_y = abs(erro_y) <= tolerancia_y
-
-    return centralizado_x and centralizado_y
-
-
-def andar_ate_proximo_triangulo(tempo_maximo=25):
-    print("Andando até encontrar o próximo alvo...")
+    inicio = time()
+    alvo_perdido = 0
 
     pydirectinput.keyDown("w")
 
-    inicio = time()
-
     try:
-        while True:
+        while time() - inicio <= tempo_maximo:
             alvo = detectar_triangulo_vermelho()
 
-            if alvo["encontrou"]:
-                print("Triângulo encontrado.")
+            if not alvo["encontrou"]:
+                alvo_perdido += 1
 
-                sleep(2)
+                print(
+                    f"Alvo temporariamente perdido "
+                    f"({alvo_perdido}/{LIMITE_ALVO_PERDIDO})"
+                )
 
+                if alvo_perdido >= LIMITE_ALVO_PERDIDO:
+                    pydirectinput.keyUp("w")
+                    print("Alvo perdido.")
+                    return False
+
+                sleep(0.10)
+                continue
+
+            alvo_perdido = 0
+
+            altura = alvo["altura"]
+            area = int(alvo["area"])
+
+            print(
+                f"Alvo detectado | "
+                f"Altura={altura} | "
+                f"Área={area}"
+            )
+
+            chegou = (
+                altura >= ALTURA_ALVO_PROXIMO
+                or area >= AREA_ALVO_PROXIMO
+            )
+
+            if chegou:
                 pydirectinput.keyUp("w")
 
-                print("Parado no alvo.")
+                print("Alvo alcançado.")
+                sleep(0.5)
+
                 return True
 
-            if time() - inicio > tempo_maximo:
-                print("Tempo máximo atingido.")
-                pydirectinput.keyUp("w")
-                return False
+            sleep(0.10)
 
-            sleep(0.2)
+        pydirectinput.keyUp("w")
+        print("Tempo máximo atingido.")
+        return False
 
     except Exception as erro:
         pydirectinput.keyUp("w")
-        print(f"Erro ao andar: {erro}")
+        print(f"Erro ao ir até o alvo: {erro}")
         return False
 
 
-print("Iniciando...")
-sleep(3)
+# ============================================================
+# SAIR DO ALVO ATUAL
+# ============================================================
+
+def sair_do_alvo():
+    print(f"Saindo do alvo por {TEMPO_SAIDA} segundos...")
+
+    pydirectinput.keyDown("w")
+    sleep(TEMPO_SAIDA)
+    pydirectinput.keyUp("w")
+
+    print("Procurando próximo alvo...")
+    sleep(0.3)
 
 
-while True:
-    try:
-        alvo = detectar_triangulo_vermelho()
+# ============================================================
+# PROGRAMA PRINCIPAL
+# ============================================================
 
-        if alvo["encontrou"]:
-            print("Alvo localizado.")
+def executar():
+    print("Iniciando em 3 segundos...")
+    sleep(3)
 
-            tentativas = 0
+    while True:
+        try:
+            alvo = detectar_triangulo_vermelho()
 
-            while not centralizar_no_triangulo():
-                tentativas += 1
+            if not alvo["encontrou"]:
+                print("Nenhum alvo visível.")
+                sleep(0.4)
+                continue
 
-                if tentativas > 20:
-                    break
+            print(
+                f"Alvo localizado | "
+                f"X={alvo['centro_x']} | "
+                f"Y={alvo['centro_y']} | "
+                f"Altura={alvo['altura']} | "
+                f"Área={int(alvo['area'])}"
+            )
 
-                sleep(0.2)
+            chegou = ir_ate_alvo()
 
-            print("Centralizado.")
+            if not chegou:
+                sleep(0.5)
+                continue
 
+            # Garante que W está solto antes de interagir.
+            pydirectinput.keyUp("w")
+            sleep(0.3)
+
+            print("Pressionando a tecla E...")
             pydirectinput.press("e")
 
-            print("Aguardando coleta...")
-            sleep(8)
+            print(
+                f"Tecla E pressionada. "
+                f"Aguardando {TEMPO_COLETA} segundos..."
+            )
 
-            andar_ate_proximo_triangulo()
+            sleep(TEMPO_COLETA)
 
+            sair_do_alvo()
+
+        except KeyboardInterrupt:
+            soltar_teclas()
+            print("\nPrograma interrompido.")
+            break
+
+        except Exception as erro:
+            soltar_teclas()
+            print(f"Erro geral: {erro}")
             sleep(1)
 
-        else:
-            print("Nenhum alvo encontrado.")
-            sleep(0.5)
 
-    except Exception as erro:
-        pydirectinput.keyUp("w")
-        pydirectinput.keyUp("a")
-        pydirectinput.keyUp("s")
-        pydirectinput.keyUp("d")
-
-        print(f"Erro: {erro}")
-        sleep(2)
+if __name__ == "__main__":
+    executar()
